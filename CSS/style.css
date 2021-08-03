@@ -1,0 +1,13 @@
+p {
+  color: #d2d;
+  font-size: 22px;
+}
+address,
+h1 {
+  color: red;
+  font-size: 30px;
+}
+abbr {
+  color: brown;
+  font-size: 28px;
+}
