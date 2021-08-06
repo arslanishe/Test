@@ -10,4 +10,4 @@ var str = "Че за ты анаконда ииииууууу",
     prop: function name(params) {},
   };
 
-alert(numberSecond);
+alert(str);
